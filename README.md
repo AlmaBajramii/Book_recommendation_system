@@ -10,7 +10,7 @@ A Book Recommendation System which recommends the users a selection of books bas
 - numpy, scipy- number python library
 - pandas - data handling library
 
-## 1. Data Cleaning and Pre-Processing
+## Data Cleaning and Pre-Processing
 The dataset consists of three tables; Books, Users, and Ratings. Data from all three tables are cleaned and preprocessed separately as defined below briefly:
 
 ### For Books Table:
