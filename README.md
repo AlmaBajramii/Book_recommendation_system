@@ -38,3 +38,14 @@ The dataset consists of three tables; Books, Users, and Ratings. Data from all t
 - Removal of punctuation from ISBN column values and if that resulting ISBN is available in the book dataset only then considering else drop that entity.
 - Upper-casing all the alphabets present in the ISBN column.
 - Removal of duplicate entries from the table.
+
+## Data Visualization
+
+- Distribution of books published over the years is visualized using a bar chart.
+- The top authors and publishers with the most books are visualized using count plots.
+- Age distribution of readers is visualized using a histogram.
+- Counts of readers from different cities, states, and countries are visualized.
+- The distribution of book ratings is visualized.
+- Explicit ratings (non-zero) are visualized separately.
+- The distribution of explicit ratings is visualized.
+- Counts of ratings for each book (Top 15) are visualized.
