@@ -49,3 +49,6 @@ The dataset consists of three tables; Books, Users, and Ratings. Data from all t
 - Explicit ratings (non-zero) are visualized separately.
 - The distribution of explicit ratings is visualized.
 - Counts of ratings for each book (Top 15) are visualized.
+- 
+## Summary
+In summary, this project covers data cleaning, exploration, and some basic visualizations to understand the distribution of books, ratings, and user demographics. It provides insights into the characteristics of the datasets and sets the stage for building a book recommendation system.
